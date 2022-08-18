@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629245192 source:f:\informatica\lab2_tpnro1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
